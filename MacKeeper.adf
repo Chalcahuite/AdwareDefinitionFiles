@@ -11,7 +11,7 @@
 		<File>/Users/*/Library/Preferences/.3FAD0F65-FC6E-4889-B975-B96CBF807B78</File>
 		<File>/Users/*/Library/Preferences/com.mackeeper.MacKeeper.*</File>
 		<File>/Library/Preferences/.3FAD0F65-FC6E-4889-B975-B96CBF807B78</File>
-		<File>/private/var/folders/4m/ssz2j4810rl4hn2_pn87j7y40000gn/T/MacKeeperUninstaller.app</File>
+		<File>/private/var/folders/*/*/*/MacKeeperUninstaller.app</File>
 		<File>/Applications/MacKeeper.app</File>
 		<File cruft="true">/Users/*/Library/Application Support/MacKeeper Helper</File>
 		<File cruft="true">/Users/*/Library/Caches/com.mackeeper.MacKeeper</File>
