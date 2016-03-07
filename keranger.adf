@@ -7,6 +7,8 @@
 		<AdwareName>Keranger</AdwareName>
 		<File>/Applications/Transmission.app/Contents/Resources/ General.rtf</File>
 		<File>/Volumes/Transmission.app/Contents/Resources/ General.rtf</File>
+    <File>/Applications/Transmission.app/Contents/Resources/General.rtf</File>
+		<File>/Volumes/Transmission.app/Contents/Resources/General.rtf</File>
 		<File>/Users/*/Library/kernel_service</File>
 		<File>/Users/*/Library/.kernel_service</File>
 		<File>/Users/*/Library/.kernel_pid</File>
