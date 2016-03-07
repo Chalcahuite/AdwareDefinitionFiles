@@ -1,0 +1,17 @@
+<AdwareDefinition>
+	<Version>1.0</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Sergio Aviles</DefinitionAuthor>
+	<DefinitionSource>Kabletown</DefinitionSource>
+	<Adware>
+		<AdwareName>Keranger</AdwareName>
+		<File>/Applications/Transmission.app/Contents/Resources/ General.rtf</File>
+		<File>/Volumes/Transmission.app/Contents/Resources/ General.rtf</File>
+		<File>/Users/*/Library/kernel_service</File>
+		<File>/Users/*/Library/.kernel_service</File>
+		<File>/Users/*/Library/.kernel_pid</File>
+		<File>/Library/Preferences/.kernel_time</File>
+    <File>/Library/Preferences/.kernel_complete</File>
+		<Process>kernel_service</Process>
+	</Adware>
+</AdwareDefinition>
