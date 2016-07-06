@@ -1,0 +1,22 @@
+<AdwareDefinition>
+	<Version>1.0</Version>
+	<DefinitionAuthor>Sergio Aviles</DefinitionAuthor>
+	<DefinitionSource>https://labs.bitdefender.com/2016/07/new-mac-backdoor-nukes-os-x-systems/</DefinitionSource>
+	<Adware>
+		<AdwareName>Backdoor.MAC.Eleanor</AdwareName>
+		<File>/Applications/EasyDoc\ Converter.app</File>
+		<File>/Users/*/Library/LaunchAgents/com.getdropbox.dropbox.integritycheck.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.getdropbox.dropbox.usercontent.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.getdropbox.dropbox.timegrabber.plist</File>
+		<File>/Users/*/Library/.dropbox/check_hostname</File>
+		<File>/Users/*/Library/.dropbox/config</File>
+		<File>/Users/*/Library/.dropbox/dbd</File>
+		<File>/Users/*/Library/.dropbox/daemon.php</File>
+		<File>/Users/*/Library/.dropbox/ego.php</File>
+		<File>/Users/*/Library/.dropbox/public.key</File>
+		<File>/Users/*/Library/.dropbox/rules</File>
+		<File>/Users/*/Library/.dropbox/sync</File>
+		<File>/Users/*/Library/.dropbox/utilities</File>
+		<File>/Users/*/Library/.dropbox</File>
+	</Adware>
+</AdwareDefinition
