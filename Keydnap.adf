@@ -1,0 +1,13 @@
+<AdwareDefinition>
+	<Version>1.0</Version>
+	<DefinitionAuthor>Sergio Aviles</DefinitionAuthor>
+	<DefinitionSource>http://www.welivesecurity.com/2016/08/30/osxkeydnap-spreads-via-signed-transmission-application/</DefinitionSource>
+	<Adware>
+		<AdwareName>Transmission.Keydnap</AdwareName>
+		<File>/Applications/Transmission.app/Contents/Resources/License.rtf</File>
+    <File>/Library/Application\ Support/com.apple.iCloud.sync.daemon</File>
+		<File>/Users/*/Library/Application\ Support/com.apple.iCloud.sync.daemon/icloudsyncd</File>
+		<File>/Users/*/Library/LaunchAgents/com.apple.iCloud.sync.daemon.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.geticloud.icloud.photo.plist</File>
+	</Adware>
+</AdwareDefinition>
